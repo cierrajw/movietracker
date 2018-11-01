@@ -89,16 +89,3 @@ cd into the backend directory
 
 https://trello.com/b/JwdSQBnf
 
-### Narratives
-
-
-### Ahmad
-
-
-
-### Cierra 
-
-
-
-### nick
-one of the biggest challanges that I approached with this project was learning SASS and SmaCSS. The architecture was a great departure from what I was used to, and the required strict adherence to indentations and layout of the css caused quite a bit more challenges than I was originally hoping. I ended up modeling the app, in it's most simplest form, after the American Apparel (rip) app, with their bold fonts and plain backgrounds. It's unlikely I'd use SmaCSS again, as it went against the component based architecture I became used to.
